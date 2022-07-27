@@ -11,6 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+#### Smol Header
+
+| Goal | ETA | Notes |
+|--|--|--|
+| Take over Spain | 5 Years |  |
+| Learn practical Sorcery | 2 Years |  |
+|  |  |  |
 -->
 
 # Dan Purdon
@@ -30,10 +38,4 @@ Here are some ideas to get you started:
 * Chef (Multiple)
 * Shaved Ice Shop Proprieteur (Yuki Shaved Ice)
 
-#### Smol Header
 
-| Goal | ETA | Notes |
-|--|--|--|
-| Take over Spain | 5 Years |  |
-| Learn practical Sorcery | 2 Years |  |
-|  |  |  |
