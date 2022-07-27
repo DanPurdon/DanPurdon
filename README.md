@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 | Take over Spain | 5 Years |  |
 | Learn practical Sorcery | 2 Years |  |
 |  |  |  |
+
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQGnenu60z9K7A/profile-displayphoto-shrink_200_200/0/1517733694981?e=1655942400&v=beta&t=n_GDH7pXFo5g0sNw9Zhx6rMJ9Ec8yHlDsXOGMxA5jf4">
 -->
 
 # Dan Purdon
-
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQGnenu60z9K7A/profile-displayphoto-shrink_200_200/0/1517733694981?e=1655942400&v=beta&t=n_GDH7pXFo5g0sNw9Zhx6rMJ9Ec8yHlDsXOGMxA5jf4">
 
 ## Interests
 1. World Travel
