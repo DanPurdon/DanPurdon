@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 3. World Domination
 
 ## Experience
-* QA Engineer (OrangeSoda)
+* Technical contractor (Kiddleton)
 * Tech Director (Lady M)
+* QA Engineer (OrangeSoda)
 * Japanese Translator (Mazda-Toyota Mfg)
 * Bartender (Lillie's Victorian Establishment)
 * Chef (Multiple)
